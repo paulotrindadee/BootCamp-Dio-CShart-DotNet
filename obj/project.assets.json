@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\TAIS\\.nuget\\packages\\": {}
+    "C:\\Users\\paulo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TAIS\\Desktop\\Aulas C\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
+      "projectUniqueName": "C:\\Users\\paulo\\Desktop\\BootCamp-Dio-CShart-DotNet\\PrimeiroProjeto.csproj",
       "projectName": "PrimeiroProjeto",
-      "projectPath": "C:\\Users\\TAIS\\Desktop\\Aulas C\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
-      "packagesPath": "C:\\Users\\TAIS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TAIS\\Desktop\\Aulas C\\PrimeiroProjeto\\obj\\",
+      "projectPath": "C:\\Users\\paulo\\Desktop\\BootCamp-Dio-CShart-DotNet\\PrimeiroProjeto.csproj",
+      "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\paulo\\Desktop\\BootCamp-Dio-CShart-DotNet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\TAIS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
